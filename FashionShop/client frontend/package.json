@@ -23,6 +23,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "update": "npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
